@@ -38,6 +38,6 @@ Below is a screenshot of the inserted Todo item as seen in **MongoDB Compass**.
 
 > The schema automatically created the `todos` collection after saving the first document.
 
-### 📸 Screenshot
+### Screenshot
 
 ![Todo Document Screenshot](./screenshots/todo-compass.png)
