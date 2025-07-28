@@ -1,4 +1,4 @@
-# 📝 TO-DO-MONGODB
+# TO-DO-MONGODB
 
 This project is a basic Express + MongoDB backend that demonstrates how to:
 
@@ -9,7 +9,7 @@ This project is a basic Express + MongoDB backend that demonstrates how to:
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Node.js
 - Express
@@ -19,7 +19,7 @@ This project is a basic Express + MongoDB backend that demonstrates how to:
 
 ---
 
-## ✅ MongoDB Schema
+## MongoDB Schema
 
 ```js
 const todoSchema = new mongoose.Schema({
@@ -32,12 +32,12 @@ const todoSchema = new mongoose.Schema({
 
 ---
 
-## 🔍 MongoDB Schema Verification
+## MongoDB Schema Verification
 
 Below is a screenshot of the inserted Todo item as seen in **MongoDB Compass**.
 
 > The schema automatically created the `todos` collection after saving the first document.
 
-### 📸 Screenshot
+### Screenshot
 
 ![Todo Document Screenshot](./screenshots/todo-compass.png)
